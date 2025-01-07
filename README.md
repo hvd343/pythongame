@@ -1,1 +1,1 @@
-# This is the python game of generating heads or ttail randomly
+# This is the python game of generating heads or tail randomly
